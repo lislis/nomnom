@@ -1,0 +1,28 @@
+baseURL = "https://nomnomnom.ninja"
+DefaultContentLanguage = "de" 
+languageCode = "de-de"
+title = "(つ▀¯▀)つ NomNomNom ⊂(▀¯▀⊂)"
+theme = "hugo-theme-diary"
+copyright = "Inhalte unter CC BY-SA"
+
+[params]
+
+enableOpenGraph = true
+enableTwitterCards = true
+
+[taxonomies]
+   tag = "tags"
+
+[[menu.main]]
+url = "/tags"
+name = "Tags"
+weight = 3
+[[menu.main]]
+url = "/posts"
+name = "Archiv"
+weight = 1
+[[menu.main]]
+url = "/index.xml"
+name = "RSS Feed"
+weight = 4
+
