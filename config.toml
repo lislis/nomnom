@@ -1,7 +1,7 @@
-baseURL = "https://nomnomnom.ninja"
+baseURL = "https://nomnom.lislis.xyz"
 DefaultContentLanguage = "de" 
 languageCode = "de-de"
-title = "(つ▀¯▀)つ NomNomNom ⊂(▀¯▀⊂)"
+title = "(っ˘ڡ˘ς) NomNom"
 theme = "hugo-theme-diary"
 copyright = "Inhalte unter CC BY-SA"
 
